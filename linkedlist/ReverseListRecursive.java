@@ -2,6 +2,9 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+/**
+ * This class reverses a singly linked list
+ * */
 class ReverseListRecursive{
     
     static class Node{
